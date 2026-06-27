@@ -17,7 +17,7 @@ Hi, I'm **Faiq Ahsan**
 - Ask me about C++, Java, Programming Fundamentals, GitHub, and Computer Science
 - Reach me at: **faiqahsan60@gmail.com**
 - Pronouns: He/Him
-- Fun fact: I can switch from debugging code to performing on stage in the same day!
+- Fun fact: I can switch from debugging code to performing on stage in the same day.
 
 ---
 *"Code with logic. Create with passion. Lead with confidence."*
